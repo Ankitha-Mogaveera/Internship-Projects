@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header, section, footer {
+    background-color: #f0f0f0;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('14.jpg'); /* Replace 'background.jpg' with the actual URL or path to your background image */
+    background-size: cover;
+    background-position: center;
+    color: #080606f7; /* Set the text color to make it readable on the background */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Add the rest of your styles as before */
+header, section, footer {
+    background-color: rgba(255, 255, 255, 0.8); /* Set a semi-transparent background color for better readability */
+}
